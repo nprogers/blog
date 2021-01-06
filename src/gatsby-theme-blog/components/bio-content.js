@@ -6,15 +6,11 @@ import React, { Fragment } from "react"
 
 export default () => (
   <Fragment>
-    Josh Wheeler
+    it me
     
     <br />
     
     Systems Engineer @ Cloudflare
-    
-    <br />
-    
-    <a href="http://www.joshwheeler.dev"> joshwheeler.dev </a>
 
   </Fragment>
 )
